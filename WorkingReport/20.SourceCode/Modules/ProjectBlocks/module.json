@@ -1,0 +1,14 @@
+{
+    "name": "ProjectBlocks",
+    "alias": "projectblocks",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\ProjectBlocks\\Providers\\ProjectBlocksServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

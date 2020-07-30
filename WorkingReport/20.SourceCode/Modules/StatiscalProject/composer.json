@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/statiscalproject",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\StatiscalProject\\Providers\\StatiscalProjectServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\StatiscalProject\\": ""
+        }
+    }
+}

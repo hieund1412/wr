@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/projectblocks",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\ProjectBlocks\\Providers\\ProjectBlocksServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ProjectBlocks\\": ""
+        }
+    }
+}

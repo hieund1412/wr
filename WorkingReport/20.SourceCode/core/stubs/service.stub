@@ -1,0 +1,17 @@
+<?php
+
+namespace $NAMESPACE$;
+
+use DB;
+
+class $CLASS$
+{
+
+    public function __construct()
+    {
+
+    }
+
+
+
+}

@@ -1,0 +1,38 @@
+.login-container .loginbox {
+    padding: 20px 20px 40px 20px;
+    width: 450px !important;
+    border-radius: 10px;
+}
+
+.login-container {
+    max-width: 450px;
+}
+
+.login-container h4 a {
+    font-size: 13px;
+    color: #888;
+}
+
+.login-container .loginbox .loginbox-title {
+    font-size: 18px;
+    color: #44b123;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.login-container h4 a:hover,
+.login-container h4 a:focus {
+    color: #44b123;
+    text-decoration: none;
+}
+
+.login-container .loginbox .loginbox-textbox .form-control {
+    border: none;
+    height: 40px;
+}
+
+.login-container .btn-primary {
+    border: none;
+    padding: 10px;
+    text-transform: uppercase;
+}
